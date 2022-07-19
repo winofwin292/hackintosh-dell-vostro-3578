@@ -2,7 +2,7 @@ Dell Vostro 3578
 My Specs:
     - CPU: Intel Core i5-8250U
     - GPU: Intel UHD 620 + AMD Radeon 520
-    - Memory: 8GB DDR3L
+    - Memory: 16GB DDR4
     - Wireless/BT: Intel AC3165
 
 What's working:
@@ -26,4 +26,3 @@ What should I do after installed macOS?:
     - Re-generate SMBIOS: Serial Number, SMUUID, Board-ID and Broad Serial Number
     - Fix USB, HDD-Box, Secure Digital Card (SD Card),... not ejected properly: https://github.com/syscl/Fix-usb-sleep
     - Add your Wifi/Bluetooth kext and snapshot without changing kext's list in config.plist before you install macOS
-- Last updated date: 20/8/2021, 8:53 AM
