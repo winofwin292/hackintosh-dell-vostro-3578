@@ -1,4 +1,8 @@
-Dell Vostro 3578
+Dell Vostro 3578 (macOS Big Sur)
+
+OpenCore v0.7.4
+Update Kext and OpenCore Tool: https://github.com/ic005k/OCAuxiliaryTools
+
 My Specs:
     - CPU: Intel Core i5-8250U
     - GPU: Intel UHD 620 + AMD Radeon 520
